@@ -1,3 +1,3 @@
 # Daily Coding Problems
 
-- [ ] Sum
+- [X] Sum
